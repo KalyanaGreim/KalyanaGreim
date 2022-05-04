@@ -2,16 +2,14 @@
 
 - 🚀 Dev Full Stack em formação.
 - 📚 Estudante DEVinHouse SENAI/SC.
-- 🌱 Atualmente aprendendo back-end em Java Spring e TDD.
-
 
 <div align="left">
   <a href="https://github.com/KalyanaGreim>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanaGreim&layout=compact&langs_count=7&theme=graywhite"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanaGreim&layout=compact&langs_count=7&theme=graywhite"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalyanaGreim&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalyanaGreim&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>-->
 </div>
-                                                                                                                                                    
+<br/>                                                                                                                                                    
                                                                                                                                               
   
 <div align="left"> 
