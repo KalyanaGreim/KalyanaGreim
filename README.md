@@ -1,4 +1,4 @@
-### Kalyana Greim 👋
+### Olá, sou Kalyana Greim 👋
 
 - 🚀 Dev Full Stack em formação.
 - 📚 Estudante DEVinHouse SENAI/SC.
