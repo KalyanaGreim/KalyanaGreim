@@ -5,8 +5,8 @@
 
 <div align="left">
   <a href="https://github.com/KalyanaGreim>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanaGreim&layout=compact&langs_count=7&theme=graywhite"/>
-                                                                                                                                                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanaGreim&layout=compact&langs_count=7&theme=graywhite"/>
+  <img heigth="400px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanaGreim&layout=compact&theme=graywhite"/>
+  <img heigth="400px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanaGreim&layout=compact&theme=graywhite"/>                                                                                                                                                
 </div>
 <br/>                                                                                                                                                    
                                                                                                                                               
