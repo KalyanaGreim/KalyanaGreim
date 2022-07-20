@@ -1,8 +1,8 @@
 ### Olá, sou Kalyana Greim 👋
 
-🚀 Associated Developer at Involves
-🎓  DEVinHouse SENAI
-📚 O que já eu aprendi: JavaScript, React, Java, Spring, PostgreSQL, QA
+- 🚀 Associated Developer at Involves
+- 🎓  DEVinHouse SENAI
+- 📚 O que já eu aprendi: JavaScript, React, Java, Spring, PostgreSQL, QA
 
 <div align="left">
   <a href="https://github.com/KalyanaGreim>
