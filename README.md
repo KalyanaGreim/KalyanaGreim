@@ -1,6 +1,8 @@
 ### Olá, sou Kalyana Greim 👋
 
-- 🚀 Dev Full Stack- trainee
+- 🚀 Associated Developer at Involves
+- mortar_board DEVinHouse SENAI
+- rocket O que já eu aprendi: JavaScript, React, Java, Spring, PostgreSQL, QA
 
 <div align="left">
   <a href="https://github.com/KalyanaGreim>
