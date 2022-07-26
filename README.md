@@ -2,7 +2,6 @@
 
 - 🚀 Associated Developer at Involves
 - 🎓  DEVinHouse SENAI
-- 📚 O que eu já aprendi: JavaScript, React, Java, Spring, PostgreSQL, QA
 
 <div align="left">
   <a href="https://github.com/KalyanaGreim>
