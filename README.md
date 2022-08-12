@@ -1,7 +1,8 @@
 ### Olá, sou Kalyana Greim 👋
 
 - 🚀 Associated Developer at Involves
-- 🎓  DEVinHouse SENAI
+- 🎓 DEVinHouse SENAI [Involves | Paripassu]
+- 📚 Studying TypeScript and Hexagonal Architecture
 
 <div align="left">
   <a href="https://github.com/KalyanaGreim>
