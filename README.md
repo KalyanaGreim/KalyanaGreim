@@ -2,7 +2,9 @@
 
 - 🚀 Associated Developer II at Involves
 - 🎓 DEVinHouse SENAI [Involves | Paripassu]
+- 🐛 JavaScript, React, Java, Spring, SQL
 - 📚 Studying TypeScript and Hexagonal Architecture
+
 
 <div align="left">
   <a href="https://github.com/KalyanaGreim>
