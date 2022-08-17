@@ -1,6 +1,6 @@
 ### Olá, sou Kalyana Greim 👋
 
-- 🚀 Associated Developer II at Involves
+- 🚀 Associate Developer II at Involves
 - 🎓 DEVinHouse SENAI [Involves | Paripassu]
 - 🐛 JavaScript, React, Java, Spring, SQL
 - 📚 Studying TypeScript and Hexagonal Architecture
