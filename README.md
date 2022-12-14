@@ -2,7 +2,7 @@
 
 - 🚀 Desenvolvedora FullStack Jr
 - 🎓 DEVinHouse SENAI [Involves | Paripassu]
-- 🐛 JavaScript, React, Java, Spring, SQL, Typescript, Docker
+- 🐛 JavaScript, React, Java, Spring, SQL, Typescript, Docker, Tracking
 - 📚 Studying NodeJs
 
 
