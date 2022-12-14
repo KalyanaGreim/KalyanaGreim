@@ -1,9 +1,9 @@
 ### Olá, sou Kalyana Greim 👋
 
-- 🚀 Associate Developer II at Involves
+- 🚀 Desenvolvedora FullStack Jr
 - 🎓 DEVinHouse SENAI [Involves | Paripassu]
-- 🐛 JavaScript, React, Java, Spring, SQL
-- 📚 Studying TypeScript and Hexagonal Architecture
+- 🐛 JavaScript, React, Java, Spring, SQL, Typescript, Docker
+- 📚 Studying NodeJs
 
 
 <div align="left">
