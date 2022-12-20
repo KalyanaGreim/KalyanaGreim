@@ -3,8 +3,6 @@
 - 🚀 Desenvolvedora FullStack Jr
 - 🎓 DEVinHouse SENAI [Involves | Paripassu]
 - 🐛 JavaScript, React, Java, Spring, SQL, Typescript, Docker, Data Analytics
-- 📚 Studying NodeJs and Laravel
-
 
 <div align="left">
   <a href="https://github.com/KalyanaGreim>
