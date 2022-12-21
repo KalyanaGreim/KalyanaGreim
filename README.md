@@ -1,6 +1,6 @@
 ### Olá, sou Kalyana Greim 👋
 
-- 🚀 Desenvolvedora FullStack Jr
+- 🚀 Software Developer Junior
 - 🎓 DEVinHouse SENAI [Involves | Paripassu]
 - 🐛 JavaScript, React, Java, Spring, SQL, Typescript, Docker, Data Analytics
 
