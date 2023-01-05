@@ -3,7 +3,7 @@
 - 🚀 Software Developer Junior
 - 🎓 DEVinHouse SENAI [Involves | Paripassu]
 - 🐛 JavaScript, React, Java, Spring, SQL, Typescript, Docker, Data Analytics
-- 📑 Studyng Java Back-End Specialist
+- 📑 Studyng Java Back-End Specialist [EBAC] 
 
 <div align="left">
   <a href="https://github.com/KalyanaGreim>
