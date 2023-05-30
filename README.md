@@ -1,8 +1,8 @@
-### Olá, sou Kalyana Greim 👋
+### Olá, sou a Kaly 👋
 
 - 🚀 Software Developer Junior
 - 🎓 DEVinHouse SENAI [Involves | Paripassu]
-- 🐛 JavaScript, React, Java, Spring, SQL, Typescript, Docker, Data Analytics
+- 🐛 JavaScript, React, Angular, Java, Spring, SQL, Typescript, Docker, Data Analytics
 - 📑 Studyng Java Back-End Specialist [EBAC] 
 
 <div align="left">
