@@ -16,6 +16,7 @@
 <div align="left"> 
   <a href = "mailto:kalygreim11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kalyanagreim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <img height=25px src="https://komarev.com/ghpvc/?username=KalyanaGreim&color=c70777">
 </div>
 
-<img height=25px src="https://komarev.com/ghpvc/?username=KalyanaGreim&color=dc143c">
+
